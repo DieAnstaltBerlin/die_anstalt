@@ -1,6 +1,6 @@
 <?php
 
-$recipient = 'youremail@domain.com';
+$recipient = 'antoine.luc@gmail.com';
 
 $date = $_POST['datepicker'];
 $time = $_POST['time'];
