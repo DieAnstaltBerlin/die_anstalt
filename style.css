@@ -36,6 +36,19 @@ https://matchthemes.com
 
 
 /* RESET STYLES */
+@font-face {
+	font-family: "Searocks";
+	src: url("fonts/CustomFont.eot");
+	src: url("fonts/searocks-webfont.woff") format("woff"),
+	url("fonts/Searocks.otf") format("opentype"),
+	url("fonts/CustomFont.svg#filename") format("svg");
+	}
+
+	
+
+		
+	
+
 
 *,
 html,
@@ -1191,7 +1204,7 @@ body.has-active-menu {
 }
 
 .slider-caption h1 {
-	font-size: 108px;
+	font-size: 188px;
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	color: #ffffff;
@@ -3156,4 +3169,12 @@ MEDIA QUERIES
 	.children li.depth-10 {
 		margin: 0
 	}
+}
+
+h1 {font-family: 'Searocks', Arial, sans-serif;
+	font-weight:normal;
+	font-style:normal;
+
+
+
 }
