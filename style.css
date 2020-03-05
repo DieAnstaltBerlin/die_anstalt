@@ -1267,6 +1267,7 @@ body.has-active-menu {
 }
 
 .home-subtitle {
+	color: black;
 	font-size: 16px;
 	font-weight: 400;
 	text-transform: uppercase;
@@ -3177,4 +3178,11 @@ h1 {font-family: 'Searocks', Arial, sans-serif;
 
 
 
+}
+.home-subtitle {
+	color: black;
+	font-size: 16px;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 2px;
 }
